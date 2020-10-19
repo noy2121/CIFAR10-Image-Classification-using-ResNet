@@ -19,5 +19,5 @@ You can download the files or open it with your jupyter notebook/google colabora
 <pre>
 Train accuracy - 90.68%           Train loss - 39.67%
 Validation accuracy - 85.71%      Validation loss - 58.03%
-Predictions on Test set - 90% succes rate
+Predictions on Test set - 90% success rate
 </pre>
